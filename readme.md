@@ -1,4 +1,4 @@
-## Write a Program to compare two numbers and display the largets number using form application
+## Write a Program to compare two numbers and display the largest number using form application
 
 # Step - 1 - in Program.cs file
 
