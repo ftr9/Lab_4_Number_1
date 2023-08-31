@@ -161,6 +161,6 @@ namespace Lab_4_Number_1
 
 ```
 
-# Step - 5 - Draw the result
+# Step - 5 - Draw the result - Mula Haru Output pharak hai
 
 ![image](https://github.com/ftr9/Lab_4_Number_1/assets/60734475/14126bba-25d0-4164-9664-cde4a8a5944d)
